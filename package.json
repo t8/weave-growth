@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "dependencies": {
+    "ar-gql": "^0.0.6",
+    "arweave": "^1.10.16",
+    "dayjs": "^1.10.7"
+  }
+}
